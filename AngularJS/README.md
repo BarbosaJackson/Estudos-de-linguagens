@@ -129,5 +129,6 @@ ng serve
 Com ele será emulado em usua máquina um servidor para que você possa acompanhar comoe está ficando o projeto, para acessar veja no terminal o _*url*_ disponibilizado, normalmente estará em **https://localhost:4200/** 
 
 Se você fez tudo como foi descrito acima, você deve se deparar com algo assim:
-[imgTela1](screenshots/screenshot_tela1.png)
+
+![imgTela1](screenshots/screenshot_tela1.png)
 
